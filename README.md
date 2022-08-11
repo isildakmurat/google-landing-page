@@ -11,3 +11,5 @@
 <hr>
 
 ## Ex:
+
+<img src="google landing page.gif" alt="google landing page">
