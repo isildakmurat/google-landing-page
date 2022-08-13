@@ -23,7 +23,7 @@
 
 
 .navbarleft{
-    margin-left: 2em;
+    margin-left: 0.8em;
 }
 
 .navbarleft a:hover{
@@ -31,7 +31,7 @@
 }
 
 .navbarright{
-    margin-right: 1em;
+    margin-right: 0.8em;
     display: flex;
     align-items: center;
 }
@@ -54,7 +54,7 @@
     background-color: #2b7de9;
     border-radius: 3px;
     padding: 1em;
-    width: 8rem;
+    width: 8.4rem;
     height: 3rem;
     text-align: center
 }
